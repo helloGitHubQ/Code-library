@@ -1,0 +1,1 @@
+type  *.js  >  ../visionfin.jui.pub.js

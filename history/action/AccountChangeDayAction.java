@@ -26,7 +26,6 @@ import com.avengers.framework.interfaces.share.dataset.IDataset;
  * 审核人员:
  * 相关文档:
  * 修改记录: 修改日期    修改人员    修改说明
- * 		 20190531 zhhangsq  规范命名	
  *********************************************/
 public class AccountChangeDayAction extends BaseService{
 
