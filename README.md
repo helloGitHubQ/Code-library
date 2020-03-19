@@ -11,6 +11,16 @@
 
 - **如果要判断大小写，可以全部转大写或全部转小写，再去判断**
 
+- 属性赋值之连续赋值操作
+
+  ```java
+  ItemDesc itemDesc=new ItemDesc();
+  itemDesc.setItemId(101L).setItemDesc("属性测试").setCreated(new Date()).setUpdated(itemDesc.getCreated());
+  
+  ```
+
+  
+
 ## :triangular_flag_on_post:项目经历
 
 - Maven 项目配置参数后启动
