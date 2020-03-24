@@ -19,7 +19,12 @@
   
   ```
 
-  
+- [以空间换时间法](https://github.com/helloGitHubQ/CodeLibrary/tree/master/base/timeSpace.md)
+
+- HttpClient
+
+  - HttpClientClose
+  - HttpClientConfig
 
 ## :triangular_flag_on_post:项目经历
 
