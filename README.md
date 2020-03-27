@@ -25,6 +25,16 @@
 
   - HttpClientClose
   - HttpClientConfig
+  
+- **equalsIgnoreCase()**  判断忽略大小写去判断两个字符串是否相等  `String.java`
+
+  - 用法：String类型字符串.equalsIgnoreCase("String类型字符串") 
+
+- **判断数组是否为空**
+
+  - **array != null && array.length>0**
+
+- 判断字符串是否为空 **StringUtils.isEmpty**(String类型字符串)
 
 ## :triangular_flag_on_post:项目经历
 
