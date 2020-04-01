@@ -36,6 +36,8 @@
 
 - 判断字符串是否为空 **StringUtils.isEmpty**(String类型字符串)
 
+- 利用 `set` 去除重复数据
+
 ## :triangular_flag_on_post:项目经历
 
 - Maven 项目配置参数后启动
